@@ -1,0 +1,18 @@
+
+//1.5秒调用一次
+//更新fomo奖池余额  bnbCount:bnb数量
+updateFomoPoolBalance(bnbCount: string | number)
+
+//更新doge奖池余额  dogeCount:doge数量
+listenDogePoolBalance(dogeCount: string | number)
+
+
+//页面渲染完成加载，调用一次获取最近十次获奖记录
+//winner:{winner:获奖者,value:usdt购买量,lukydogeAmount:买入的LUD量,
+            buyTime:date 买入时间,fomoAward：bnb奖励个数，openFomoTime:得奖时间  }
+fetchFomoWinners(winners: winner[])
+
+
+
+
+

@@ -1,0 +1,209 @@
+/*
+      ============================================================
+           Default Color Start
+      ============================================================
+*/
+ .title:hover > a,
+ .th-cl,
+ .th-cl.th-bdr.border,
+ .blog-thumb-2:hover .title,
+ .osr-team-thumb-2:hover .title,
+ .navigation li.active > a,
+ .navigation li:hover > a,
+ .readmore-btn:hover,
+ .widget-contact-form .form-control:focus
+{
+  color: #645CFE !important
+}
+/*
+      ============================================================
+           Default Background Color Start
+      ============================================================
+*/
+ .th-bg,
+  .th-cl.th-bdr.border:hover,
+ .roadmap-slider-2::before,
+ .navigation li a::after,
+ .roadmap-slider-2 .slick-slide::after,
+ .video-btn::after,
+ .video-btn::before,
+ .switch-btn .slider::before,
+ .blog-post-slider .slick-dots li.slick-active button,
+ .blog-post-slider .slick-dots li:hover button,
+ [class*="about-caption"] .readmore-btn::before,
+ .roadmap-slider-2 .slick-slide::before,
+ .horizontal-progress .progress-bar::before,
+  .oscar-header-4 .nav-outer.affix .mean-container a.meanmenu-reveal span
+{
+    background-color: #645CFE 
+}
+/*
+      ============================================================
+           Default Border Color Start
+      ============================================================
+*/
+.th-bdr.border,
+ .switch-btn .slider,
+ .roadmap-slider-2 .slick-slide::after,
+ .roadmap-thumb::after,
+ .horizontal-progress .progress-bar::after,
+ .oscar-header-4 .nav-outer.affix .mean-container a.meanmenu-reveal,
+ .th-bdr{
+    border-color: #645CFE
+}
+
+.btn{
+  --box-shadow-color: #645CFE;
+}
+
+/*
+      ============================================================
+           Default Transition Start
+      ============================================================
+*/
+a,
+label,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+input,
+.btn,
+.blog,
+figure,
+.title,
+.tags a,
+.title a,
+textarea,
+.slick-arrow,
+.navigation a,
+.features-thumb-2,
+.social-list li a{
+  transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+}
+/*
+      ============================================================
+           Second Background Color Start
+      ============================================================
+*/
+
+.gray-bg{
+    background-color:#f7fbff4f/*#f7fbff*//* #ebebea */;
+}
+
+{
+  border-color:#f7fbff/* #ebebea */;
+}
+
+.thinn-event-thumb figure,
+.thinn-event-list figure,
+.th-gradient{
+  background: -webkit-linear-gradient(45deg, #ff89e9 0%, #645CFE 100%);
+  background: linear-gradient(45deg, #ff89e9 0%,#645CFE 100%);
+}
+/*
+      ============================================================
+           Social Icons Background Color Start
+      ============================================================
+*/
+.google-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #f0042a;
+}
+.twitter-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #55acee;	
+}
+.linkedin-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #00598e;	
+}
+.facebook-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #3b5998;	
+}
+.price-tag.red {
+    background: #ff0000;
+}
+.red{
+  background: #ff6363 !important;
+}
+.red-cl{
+  color: #ff6363;
+}
+
+.green{
+  background: #04ee7d !important;
+}
+
+.blue{
+  background: #04baee !important;
+}
+
+.yellow{
+  background: #ffd908 !important;
+}
+
+
+
+
+
+
+
+
+
+/*
+      ============================================================
+           Default Color Start
+      ============================================================
+*/
+.crypton-vertion .title:hover > a,
+.crypton-vertion .th-cl,
+.crypton-vertion .blog-thumb-2:hover .title,
+.crypton-vertion .osr-team-thumb-2:hover .title,
+.crypton-vertion .navigation li.active > a,
+.crypton-vertion .navigation li:hover > a
+{
+  color: #f9603e
+}
+/*
+      ============================================================
+           Default Background Color Start
+      ============================================================
+*/
+.crypton-vertion .th-bg,
+.crypton-vertion .roadmap-slider-2::before,
+.crypton-vertion .navigation li a::after,
+.crypton-vertion .roadmap-slider-2 .slick-slide::after,
+.crypton-vertion .video-btn::after,
+.crypton-vertion .video-btn::before,
+.crypton-vertion .roadmap-slider-2 .slick-slide::before,
+.crypton-vertion .horizontal-progress .progress-bar::before
+{
+    background-color: #f9603e
+}
+/*
+      ============================================================
+           Default Border Color Start
+      ============================================================
+*/
+.crypton-vertion .roadmap-slider-2 .slick-slide::after,
+.crypton-vertion .roadmap-thumb::after,
+.crypton-vertion .horizontal-progress .progress-bar::after,
+.crypton-vertion .th-bdr{
+    border-color: #f9603e
+}
+.crypton-vertion .btn{
+  --box-shadow-color: #f9603e;
+}
+.lighter-black-bg{
+    background-color:#1d1f29/* #ebebea */;
+}

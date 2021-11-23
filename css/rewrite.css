@@ -1,0 +1,89 @@
+div.nav-outer {
+    padding-top: 0;
+}
+
+
+.main-banner {
+    background-color: #04004D !important;
+}
+
+/*.pull-right.menu-holder {*/
+/*    width: 700px;*/
+/*}*/
+
+#btn-connect {
+    float: right;
+    border: 2px solid #ffffff;
+    -webkit-align-items: center;
+    align-items: center;
+    padding: 0 15px;
+    cursor: pointer;
+    position: relative;
+    border-radius: 25px;
+}
+
+.pool-table .btn{
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 19px;
+    padding: 13px 45px;
+    width: 100%
+}
+.pool-table .btn.th-bdr.border.th-cl:hover{
+    color: #fff !important;
+}
+/*.pool-table .btn.th-bg{
+  box-shadow: 0px 10px 20px 0px rgba(23, 191, 152, 0.5);
+}*/
+.pool-section{
+    position: relative;
+}
+.pool-section::after{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    content: "";
+    background: transparent linear-gradient(180deg, #EEFFFA 0%, #FFF3F3 100%) 0% 0% no-repeat padding-box;
+}
+.pool-section .section-heading-2{
+    position: relative;
+    z-index: 1;
+}
+.pool-section .section-heading-2 p{
+    margin-right:auto;
+    margin-left:auto;
+    max-width: 500px;
+    display: block;
+    float: none;
+}
+.pool-section .pool-table{
+    z-index: 1
+}
+
+.pool-table{
+    float: left;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    position: relative;
+    padding: 32px;
+    border-radius: 20px;
+    box-shadow: 10px 20px 30px #00000008;
+}
+
+.pool-table-2{
+    height: 400px;
+    float: left;
+    width: 100%;
+    margin: 0 0 30px;
+    text-align: center;
+    padding: 40px 40px 23px;
+    background-color: #fff;
+}
+
+.pool-table{
+    text-align: center;
+}
+
